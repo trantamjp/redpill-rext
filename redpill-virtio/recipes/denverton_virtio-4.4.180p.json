@@ -3,7 +3,7 @@
   "files": [
     {
       "name": "check-virtio.sh",
-      "url": "https://github.com/trantamjp/redpill-rext/redpill-virtio/raw/develop/src/check-virtio.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-virtio/src/check-virtio.sh",
       "sha256": "adc855ba16776c5643bf1be801947b603813b628d29b22117b6b22243dc37660",
       "packed": false
     },
