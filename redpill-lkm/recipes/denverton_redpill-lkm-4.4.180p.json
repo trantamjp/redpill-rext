@@ -3,8 +3,8 @@
   "files": [
     {
       "name": "redpill-denverton-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/redpill-lkm/releases/download/denverton-4.4.180p-v1.0.0/redpill-denverton-4.4.180p.tar.gz",
-      "sha256": "6b8a09645244bb3f654e68a734611cddc3735f69cef7e33769b7ede97db7da73",
+      "url": "https://github.com/trantamjp/redpill-lkm/releases/download/denverton-4.4.180p-v1.0.0/redpill-denverton-4.4.180p.tgz",
+      "sha256": "8b19f6bf09b6630bf64fb162f86daa56e5313c3ac9b8b657723fd4553012ff49",
       "packed": true
     },
     {
