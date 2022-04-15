@@ -1,0 +1,23 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "redpill-denverton-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-lkm/releases/download/denverton-4.4.180p-v1.0.0/redpill-denverton-4.4.180p.tar.gz",
+      "sha256": "6b8a09645244bb3f654e68a734611cddc3735f69cef7e33769b7ede97db7da73",
+      "packed": true
+    },
+    {
+      "name": "check-redpill.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-lkm/src/check-redpill.sh",
+      "sha256": "9d63819b210912bcf857b97a51a113875397b5d6ffdd6bdbd64fc9968cfb877f",
+      "packed": false
+    }
+  ],
+  "kmods": {
+    "redpill.ko": ""
+  },
+  "scripts": {
+    "on_boot": "check-redpill.sh"
+  }
+}

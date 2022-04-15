@@ -1,0 +1,14 @@
+{
+  "id": "pocopico.redpill-lkm",
+  "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-lkm/rpext-index.json",
+  "info": {
+    "name": "redpill",
+    "description": "Adds Redpill-LKM Support",
+    "author_url": "https://github.com/trantamjp",
+    "packer_url": "https://github.com/trantamjp/redpill-rext/tree/develop/redpill-lkm",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "dva3221_42661": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-lkm/recipes/denverton_redpill-lkm-4.4.180p.json"
+  }
+}
