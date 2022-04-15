@@ -22,7 +22,6 @@
     "virtio_blk.ko": "",
     "virtio_net.ko": "",
     "virtio_input.ko": "",
-    "virtio_console.ko": "",
     "virtio_scsi.ko": ""
   },
   "scripts": {
