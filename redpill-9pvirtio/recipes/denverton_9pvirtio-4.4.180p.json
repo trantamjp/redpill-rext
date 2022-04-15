@@ -1,0 +1,25 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "check-9pvirtio.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-9pvirtio/src/check-9pvirtio.sh",
+      "sha256": "2cf8d34ac1558ed6b811e1e2e62bbd5e407862221e0ca5674d2d30e45acd083c",
+      "packed": false
+    },
+    {
+      "name": "denverton-4.4.180p-v1.0.0",
+      "url": "https://github.com/trantamjp/synology_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton-4.4.180p.tar.gz",
+      "sha256": "f9082acbda07376aa14a1c5737d74d1ced79014235d5c222a166976e08c77883",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "9pnet.ko": "",
+    "9p.ko": "",
+    "9pnet_virtio.ko": ""
+  },
+  "scripts": {
+    "check_kmod": "check-9pvirtio.sh"
+  }
+}
