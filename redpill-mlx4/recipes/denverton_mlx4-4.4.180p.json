@@ -9,7 +9,7 @@
     },
     {
       "name": "denverton_mlx4-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/syno_kernel_mods/raw/main/releases/kernel/denverton-4.4.180%2B/denverton_mlx4-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-mlx4/src/denverton_mlx4-4.4.180p.tar.gz",
       "sha256": "19a4359b7735f427f05544881dfe81045bb62255cafe5f0d4a9dede424d37087",
       "packed": true
     }

@@ -9,7 +9,7 @@
     },
     {
       "name": "denverton_9pvirtio-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/syno_kernel_mods/raw/main/releases/kernel/denverton-4.4.180%2B/denverton_9pvirtio-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-9pvirtio/src/denverton_9pvirtio-4.4.180p.tar.gz",
       "sha256": "c1960d914f9a0906e5cf0b5ebeaf8fd8d8556c360f20d7267bd569546bbc1f1e",
       "packed": true
     }

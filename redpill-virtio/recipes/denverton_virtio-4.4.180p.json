@@ -9,7 +9,7 @@
     },
     {
       "name": "denverton_virtio-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/syno_kernel_mods/raw/main/releases/kernel/denverton-4.4.180%2B/denverton_virtio-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-virtio/src/denverton_virtio-4.4.180p.tar.gz",
       "sha256": "d2d1f57cf8f0ef6896662a902ae25c7253b6a6cf28ba11924375abe7c145e30f",
       "packed": true
     }
