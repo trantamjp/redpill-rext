@@ -5,7 +5,7 @@
     "name": "9pVirtIO",
     "description": "Adds 9p virtio support",
     "author_url": "https://www.linux-kvm.org/page/9p_virtio",
-    "packer_url": "https://github.com/trantamjp/redpill-rext/tree/develop/redpill-9pvirtio",
+    "packer_url": "https://github.com/trantamjp/redpill-rext",
     "help_url": "<todo>"
   },
   "releases": {

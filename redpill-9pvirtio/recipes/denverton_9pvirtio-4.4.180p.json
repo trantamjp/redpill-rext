@@ -8,9 +8,9 @@
       "packed": false
     },
     {
-      "name": "denverton-4.4.180p-v1.0.0",
-      "url": "https://github.com/trantamjp/synology_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton-4.4.180p.tar.gz",
-      "sha256": "f9082acbda07376aa14a1c5737d74d1ced79014235d5c222a166976e08c77883",
+      "name": "denverton_9pvirtio-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/syno_kernel_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton_9pvirtio-4.4.180p.tar.gz",
+      "sha256": "61615e6a7e1e37912f11a42222cecb49a98777e04a9602b0350c6b2307316526",
       "packed": true
     }
   ],

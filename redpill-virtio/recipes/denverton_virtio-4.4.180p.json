@@ -4,13 +4,13 @@
     {
       "name": "check-virtio.sh",
       "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-virtio/src/check-virtio.sh",
-      "sha256": "adc855ba16776c5643bf1be801947b603813b628d29b22117b6b22243dc37660",
+      "sha256": "63198c8f0ac33880701f52b7c10c875504bb2a2473c491134157f70b54e5bd09",
       "packed": false
     },
     {
-      "name": "denverton-4.4.180p-v1.0.0",
-      "url": "https://github.com/trantamjp/synology_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton-4.4.180p.tar.gz",
-      "sha256": "f9082acbda07376aa14a1c5737d74d1ced79014235d5c222a166976e08c77883",
+      "name": "denverton_virtio-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/syno_kernel_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton_virtio-4.4.180p.tar.gz",
+      "sha256": "4ff646f4e588a3903ef3604998b86ceb1c4874187c3c0e22235ecb61be2debfa",
       "packed": true
     }
   ],

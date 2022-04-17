@@ -1,0 +1,24 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "check-mlx4.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-mlx4/src/check-mlx4.sh",
+      "sha256": "00e3683a18b43afb5cc2b0297108da8fc5803d134d486e5f3c6c4ac4699e2c00",
+      "packed": false
+    },
+    {
+      "name": "denverton_mlx4-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/syno_kernel_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton_mlx4-4.4.180p.tar.gz",
+      "sha256": "18d32f9cbee757edcfb35d69f502cef327c4f01761e127437deaa7d835e368c7",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "mlx4_core.ko": "",
+    "mlx4_en.ko": ""
+  },
+  "scripts": {
+    "check_kmod": "check-mlx4.sh"
+  }
+}

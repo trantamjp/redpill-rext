@@ -1,0 +1,15 @@
+{
+  "id": "trantamjp.mlx4",
+  "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-mlx4/rpext-index.json",
+  "info": {
+    "name": "VirtIO",
+    "description": "Adds mlx4 support",
+    "author_url": "https://network.nvidia.com/products/ethernet-drivers/linux/mlnx_en/",
+    "packer_url": "https://github.com/trantamjp/redpill-rext",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "dva3221_42218": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-mlx4/recipes/denverton_mlx4-4.4.180p.json",
+    "dva3221_42661": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-mlx4/recipes/denverton_mlx4-4.4.180p.json"
+  }
+}
