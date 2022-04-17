@@ -9,8 +9,8 @@
     },
     {
       "name": "denverton_9pvirtio-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/syno_kernel_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton_9pvirtio-4.4.180p.tar.gz",
-      "sha256": "61615e6a7e1e37912f11a42222cecb49a98777e04a9602b0350c6b2307316526",
+      "url": "https://github.com/trantamjp/syno_kernel_mods/raw/main/releases/kernel/denverton-4.4.180%2B/denverton_9pvirtio-4.4.180p.tar.gz",
+      "sha256": "c1960d914f9a0906e5cf0b5ebeaf8fd8d8556c360f20d7267bd569546bbc1f1e",
       "packed": true
     }
   ],

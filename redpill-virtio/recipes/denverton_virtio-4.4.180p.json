@@ -9,8 +9,8 @@
     },
     {
       "name": "denverton_virtio-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/syno_kernel_mods/releases/download/denverton-4.4.180p-v1.0.0/denverton_virtio-4.4.180p.tar.gz",
-      "sha256": "4ff646f4e588a3903ef3604998b86ceb1c4874187c3c0e22235ecb61be2debfa",
+      "url": "https://github.com/trantamjp/syno_kernel_mods/raw/main/releases/kernel/denverton-4.4.180%2B/denverton_virtio-4.4.180p.tar.gz",
+      "sha256": "d2d1f57cf8f0ef6896662a902ae25c7253b6a6cf28ba11924375abe7c145e30f",
       "packed": true
     }
   ],
