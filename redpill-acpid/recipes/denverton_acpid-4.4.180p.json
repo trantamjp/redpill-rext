@@ -1,0 +1,24 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "check-acpid.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-acpid/src/check-acpid.sh",
+      "sha256": "dc9779e34067a54564e73c2b97d426b1376bda7cf5f55f45931abde3db51e0b3",
+      "packed": false
+    },
+    {
+      "name": "denverton_acpi-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-acpid/src/denverton_acpi-4.4.180p.tar.gz",
+      "sha256": "8e25ac9077996205e0f44a9121550df3c823bea9adc3d90c2e9ea0c140b06e33",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "acpid_core.ko": "",
+    "acpid_en.ko": ""
+  },
+  "scripts": {
+    "check_kmod": "check-acpid.sh"
+  }
+}
