@@ -10,13 +10,10 @@
     {
       "name": "denverton_acpi-4.4.180p.tar.gz",
       "url": "https://github.com/trantamjp/redpill-rext/raw/develop/redpill-acpid/src/denverton_acpi-4.4.180p.tar.gz",
-      "sha256": "8e25ac9077996205e0f44a9121550df3c823bea9adc3d90c2e9ea0c140b06e33",
+      "sha256": "a9d08deeae7bcb2e6afffad6f7b19a163ff935493f696d256bb73f4731c41664",
       "packed": true
     }
   ],
-  "kmods": {
-    "button.ko": ""
-  },
   "scripts": {
     "check_kmod": "check-acpid.sh"
   }
