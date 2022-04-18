@@ -15,8 +15,7 @@
     }
   ],
   "kmods": {
-    "acpid_core.ko": "",
-    "acpid_en.ko": ""
+    "button.ko": ""
   },
   "scripts": {
     "check_kmod": "check-acpid.sh"
