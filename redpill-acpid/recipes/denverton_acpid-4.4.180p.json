@@ -13,8 +13,5 @@
       "sha256": "a9d08deeae7bcb2e6afffad6f7b19a163ff935493f696d256bb73f4731c41664",
       "packed": true
     }
-  ],
-  "scripts": {
-    "check_kmod": "check-acpid.sh"
-  }
+  ]
 }
