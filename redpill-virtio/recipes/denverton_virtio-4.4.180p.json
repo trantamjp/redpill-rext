@@ -1,0 +1,30 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "check-virtio.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/debian10-slim/redpill-virtio/src/check-virtio.sh",
+      "sha256": "63198c8f0ac33880701f52b7c10c875504bb2a2473c491134157f70b54e5bd09",
+      "packed": false
+    },
+    {
+      "name": "denverton_virtio-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/debian10-slim/redpill-virtio/src/denverton_virtio-4.4.180p.tar.gz",
+      "sha256": "e42e0bdd72b6a88dd88ee2007b1fda97f18f6efb7ef4dca58cb46a61a4299b90",
+      "packed": true
+    }
+  ],
+  "kmods": {
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_input.ko": "",
+    "virtio_scsi.ko": ""
+  },
+  "scripts": {
+    "check_kmod": "check-virtio.sh"
+  }
+}
