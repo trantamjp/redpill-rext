@@ -10,7 +10,7 @@
     {
       "name": "denverton_virtio-4.4.180p.tar.gz",
       "url": "https://github.com/trantamjp/redpill-rext/raw/debian10-slim/redpill-virtio/src/denverton_virtio-4.4.180p.tar.gz",
-      "sha256": "50bcde9c37f45596429c8e1bff55f490afa4b17978516ffd2a9254d63f36f9a0",
+      "sha256": "76daedd2de6024e6b52c2f8c098b6647d5c5c6b0333cae72b87d28edb9d0c830",
       "packed": true
     }
   ],
