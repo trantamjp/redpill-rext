@@ -1,0 +1,36 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "check-acpid-button.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/src/check-acpid-button.sh",
+      "sha256": "aa674b0bf2f6c7afbe8d5096478db3b507f48592b05cb6fafdb6fffb0b1ce35f",
+      "packed": false
+    },
+    {
+      "name": "acpi-button-denverton-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-tool-chain/raw/custom/kmods/acpi-button-denverton-4.4.180p.tar.gz",
+      "sha256": "6fb82bf906c70e757e4e9a5b48666faaad523a927e82896440b2e9c7c43d1124",
+      "packed": true
+    },
+    {
+      "name": "install-acpid.sh",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/src/install-acpid.sh",
+      "sha256": "c5b1be489c0fe625974e0ec3c583dcd346eb0824629539ce20acbaa40e944dbb",
+      "packed": false
+    },
+    {
+      "name": "acpid.tar.gz",
+      "url": "https://github.com/jumkey/redpill-load/raw/main/redpill-acpid/acpid.tar.gz",
+      "sha256": "d93ebd2af411fd3094403db4d6efb9792296c0a2fac5ba9cbbf851f6d249adef",
+      "packed": false
+    }
+  ],
+  "kmods": {
+    "button.ko": ""
+  },
+  "scripts": {
+    "check_kmod": "check-acpid-button.sh",
+    "on_os_load": "install-acpid.sh"
+  }
+}
