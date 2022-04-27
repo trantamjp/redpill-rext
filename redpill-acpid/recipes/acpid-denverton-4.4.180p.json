@@ -21,7 +21,7 @@
     },
     {
       "name": "acpid.tar.gz",
-      "url": "https://github.com/jumkey/redpill-load/raw/main/redpill-acpid/acpid.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/src/acpid.tar.gz",
       "sha256": "d93ebd2af411fd3094403db4d6efb9792296c0a2fac5ba9cbbf851f6d249adef",
       "packed": false
     }
