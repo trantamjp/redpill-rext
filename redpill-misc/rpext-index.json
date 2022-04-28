@@ -9,6 +9,7 @@
     "help_url": "<todo>"
   },
   "releases": {
+    "ds3622xsp_42661": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-misc/recipes/universal.json",
     "dva3221_42218": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-misc/recipes/universal.json",
     "dva3221_42661": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-misc/recipes/universal.json"
   }

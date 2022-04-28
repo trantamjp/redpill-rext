@@ -8,9 +8,9 @@
       "packed": false
     },
     {
-      "name": "virtio-denverton-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/redpill-tool-chain/raw/custom/kmods/kernel-denverton.linux-4.4.x/virtio-denverton-4.4.180p.tar.gz",
-      "sha256": "6a22ae25b8306df062e2e0e6ca0a7f6d37bbb8be7f17fb04f26e15236bf62a96",
+      "name": "virtio-broadwellnk-4.4.180p.tar.gz",
+      "url": "https://github.com/trantamjp/redpill-tool-chain/raw/custom/kmods/kernel-broadwellnk.linux-4.4.x/virtio-broadwellnk-4.4.180p.tar.gz",
+      "sha256": "f46d56e398f9ce6d23d3dfa3dbc52f15ecaec6c44a7971f0e7bc40016e1fe8c4",
       "packed": true
     }
   ],
