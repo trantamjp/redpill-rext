@@ -9,8 +9,8 @@
     },
     {
       "name": "acpi-button-denverton-4.4.180p.tar.gz",
-      "url": "https://github.com/trantamjp/redpill-tool-chain/raw/custom/kmods/acpi-button-denverton-4.4.180p.tar.gz",
-      "sha256": "6fb82bf906c70e757e4e9a5b48666faaad523a927e82896440b2e9c7c43d1124",
+      "url": "https://github.com/trantamjp/redpill-tool-chain/raw/custom/kmods/kernel-denverton.linux-4.4.x/acpi-button-denverton-4.4.180p.tar.gz",
+      "sha256": "9e07c69d1a8896576dea760a35d072c26ec2bae081a9661c35e5a4f4b33f8a69",
       "packed": true
     },
     {
