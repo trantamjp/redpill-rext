@@ -9,6 +9,8 @@
     "help_url": "<todo>"
   },
   "releases": {
+    "ds1621xsp_42218": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/recipes/acpid-broadwellnk-4.4.180p.json",
+    "ds1621xsp_42661": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/recipes/acpid-broadwellnk-4.4.180p.json",
     "ds3622xsp_42218": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/recipes/acpid-broadwellnk-4.4.180p.json",
     "ds3622xsp_42661": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/recipes/acpid-broadwellnk-4.4.180p.json",
     "dva3221_42218": "https://github.com/trantamjp/redpill-rext/raw/main/redpill-acpid/recipes/acpid-denverton-4.4.180p.json",
